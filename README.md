@@ -2,16 +2,18 @@ I am a student with a passion for data structures, databases, and the fundamenta
 
 Certifications & Achievements
 
-Completed HTML and CSS course at FreeCodeCamp
-Earned the “Quantum Enigmas” badge from IBM (View Badge)
-Currently learning IoT and Networking
+Completed HTML and CSS course at FreeCodeCamp. 
+Earned the “Quantum Enigmas” badge from IBM (View Badge). 
+Currently learning IoT and Networking. 
 Research Interests
 
-Adaptive algorithms for social media personalization
-Data categorization and recommendation systems
+Adaptive algorithms for social media personalization, 
+Data categorization and recommendation systems, 
 Quantum computing basics and future applications
-LinkedIn: Dharanika Karthikeyan
 
 Personal Motto:
 Opportunity doesn’t happen, you create them.
+
+
 Contact: dharanikakarthikeyan2806@gmail.com
+LinkedIn: Dharanika Karthikeyan
